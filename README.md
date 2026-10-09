@@ -50,4 +50,4 @@ For a conventional three-phase 120-degree conduction inverter, the output line-t
 - Add screenshots, parameter tables, and measured results if this project is being submitted as a lab or academic report.
 
 ## License
-No license has been specified. Add a license if you intend to distribute the project.
+This Project is Under MIT license.
